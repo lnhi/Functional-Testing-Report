@@ -1,9 +1,10 @@
 # Functional-Testing-Report
 ### Mô tả bài toán
 Chương trình giảm giá cho các cuộc gọi đường dài được tính như sau:  
-- Bất kỳ cuộc gọi nào bắt đầu lúc hoặc sau 20:00 nhưng trước 08:00 được giảm 50%.
-- Bất kỳ cuộc gọi nào bắt đầu lúc hoặc sau 08:00 nhưng trước 20:00 được tính giá đầy đủ.
+- Bất kỳ cuộc gọi nào bắt đầu lúc hoặc sau 20:00h nhưng trước 08:00h được giảm 50%.
+- Bất kỳ cuộc gọi nào bắt đầu lúc hoặc sau 08:00h nhưng trước 20:00h được tính giá đầy đủ.
 - Bất kỳ cuộc gọi nào dài hơn 60 phút đều được giảm giá 15% trên chi phí (sau khi trừ đi bất kỳ khoản giảm giá nào khác).
+
 Chương trình đọc thời điểm bắt đầu cuộc gọi dựa trên đồng hồ 24 giờ và thời lượng của cuộc gọi. Thời gian cuộc gọi tối đa là 180 phút.
  
 Chương trình trả về:  
