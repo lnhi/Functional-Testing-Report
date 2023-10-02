@@ -17,5 +17,6 @@ Chương trình trả về:
 Lưu ý: Chương trình sẽ giả sử chỉ các giá trị số nguyên được nhập vào, thời lượng không âm và thời gian bắt đầu biểu thị thời gian đồng hồ thực.  
 ### Source code
 - Mã nguồn chương trình được lưu trong file [Discount.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/src/Discount.java)
-- File test cases cho kiểm thử với kỹ thuật sử dụng bảng quyết định lưu trong file [test1.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/Test/test1.java)
-- File test cases cho kiểm thử với kỹ thuật phân hoạch tương đương lưu trong file [test2.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/Test/test2.java)
+- File test cases kiểm thử với kỹ thuật sử dụng bảng quyết định lưu trong file [test1.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/Test/test1.java)
+- File test cases kiểm thử với kỹ thuật phân hoạch tương đương lưu trong file [test2.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/Test/test2.java)
+- File test cases kiểm thử dòng điều khiển lưu trong file [test3.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/Test/test3.java)
