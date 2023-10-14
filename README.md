@@ -20,3 +20,4 @@ Lưu ý: Chương trình sẽ giả sử chỉ các giá trị số nguyên đư
 - File test cases kiểm thử với kỹ thuật sử dụng bảng quyết định lưu trong file [test1.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/Test/test1.java)
 - File test cases kiểm thử với kỹ thuật phân hoạch tương đương lưu trong file [test2.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/Test/test2.java)
 - File test cases kiểm thử dòng điều khiển lưu trong file [test3.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/Test/test3.java)
+- File test cases kiểm thử dòng dữ liệu lưu trong file [test4.java](https://github.com/lnhi/Functional-Testing-Report/blob/main/Discount/Test/test4.java)
